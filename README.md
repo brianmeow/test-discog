@@ -9,6 +9,11 @@
 4. Run the app 
    npm run dev 
 
+## Test Run 
+![121383785_2091708640963349_7141512835702185450_n](https://github.com/user-attachments/assets/218006cf-db1a-42e4-9214-99edd7ebefaf)
+![d](https://github.com/user-attachments/assets/5b238cdd-571b-42db-a76c-2bac229cb05b)
+
+
 ## Design Decisions
 
 - **Apollo Client**: Chosen for its integration with GraphQL and caching capabilities.
